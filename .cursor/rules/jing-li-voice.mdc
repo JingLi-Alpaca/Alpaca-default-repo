@@ -1,0 +1,23 @@
+---
+description: Jing Li's verify command and the voice to use when drafting messages for them.
+alwaysApply: true
+---
+
+# Jing Li
+
+Slack display name: Li (PH - Nov 23). Slack user: U0C2GTG458A.
+
+## Verify
+
+When Jing Li sends a message that starts with "verify", treat the text after that word as a request to verify and polish the English. Check correctness, fix grammar and wording, and return a polished version.
+
+## Drafting messages for Jing Li
+
+When drafting a message Jing will send:
+
+- Use casual wording and a senior, confident stance.
+- Lead with the conclusion.
+- Do not add politeness fillers such as "I fully agree", and do not use exclamation marks.
+- Use ownership-oriented phrasing such as "I'll focus on..." and "I'll reach out if I need your support".
+- Stay casual, and do not sound tentative.
+- Jing was director-level at a previous company, so this senior, confident stance is expected at Alpaca too.
